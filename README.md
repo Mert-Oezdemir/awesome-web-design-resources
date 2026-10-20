@@ -118,6 +118,7 @@ Referans siteler kopyalanabilir şablon değildir; kod, görsel ve marka haklar�
 - [Realtime Colors](https://www.realtimecolors.com/), [Huemint](https://huemint.com/): renk keşfi.
 - [Lucide](https://lucide.dev/), [Phosphor](https://phosphoricons.com/), [Iconify](https://iconify.design/): ikonlar; set lisansları değişir.
 - [Figma](https://www.figma.com/), [Penpot](https://penpot.app/): tasarım araçları.
+- [Pic2SVG](https://pic2svg.com/): raster-to-vector inspection for flat artwork with a free anonymous split preview and enlarged view; downloads require Pro, and images are processed on the server.
 
 ## Fotoğraf ve asset
 
